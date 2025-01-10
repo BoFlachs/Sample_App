@@ -22,7 +22,7 @@ gem 'will_paginate', '3.3.1'
 
 group :development, :test do
   gem 'debug',   '1.9.2', platforms: %i[mri mingw x64_mingw]
-  gem 'sqlite3', '1.4.2'
+  gem 'pg', '1.4.2'
 end
 
 group :development do
