@@ -11,5 +11,5 @@ bundle exec rails assets:clean
 # Uncomment the following line:
 
 bundle exec rails db:migrate
-buncle exec rails db:migrate:reset
-buncle exec rails db:seed
+bundle exec rails db:migrate:reset
+bundle exec rails db:seed
